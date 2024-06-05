@@ -1,0 +1,9 @@
+{
+  "name": "my-flyking-native",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/my-flyking-native/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project my-flyking-native --web",
+  "targets": {}
+}

@@ -1,0 +1,36 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@mononono/blockz-ui-call-to-action": [
+        "libs/shared/blockz/ui-call-to-action/src/index.ts"
+      ],
+      "@mononono/broadband-data-access": [
+        "libs/broadband/data-access/src/index.ts"
+      ],
+      "@mononono/broadband-feature-move": [
+        "libs/broadband/feature-move/src/index.ts"
+      ],
+      "@mononono/broadband-feature-onboarding": [
+        "libs/broadband/feature-onboarding/src/index.ts"
+      ],
+      "@mononono/broadband-shared-feature-product-picker": [
+        "libs/broadband/shared/feature-product-picker/src/index.ts"
+      ]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "blockz-ui-call-to-action",
+  "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/shared/blockz/ui-call-to-action/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project blockz-ui-call-to-action --web",
+  "targets": {}
+}

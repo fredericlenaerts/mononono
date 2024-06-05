@@ -1,0 +1,9 @@
+{
+  "name": "broadband-shared-feature-product-picker",
+  "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/broadband/shared/feature-product-picker/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project broadband-shared-feature-product-picker --web",
+  "targets": {}
+}
